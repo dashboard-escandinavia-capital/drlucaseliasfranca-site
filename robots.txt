@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://drlucaseliasfranca.com.br/sitemap.xml
